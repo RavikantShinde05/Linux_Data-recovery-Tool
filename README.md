@@ -1,4 +1,4 @@
-# Linux Data Recovery Tool – Bash Script :
+# Linux Data Recovery Tool – Bash Script (Practise-Project):
 
 # ⚠️ Disclaimer :
 ## Use this script responsibly. Always double-check disk paths before running recovery tools. This tool is meant for educational and recovery purposes as a practise-project only. 
